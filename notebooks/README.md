@@ -24,9 +24,21 @@
 - 每章必须有可运行结果
 - 每章至少一张「值得截图」的图
 
+## 第二期（编写中）
+
+按顺序打开 **`phase2_intro/`** 目录：
+
+| 顺序 | 文件 | 等级 |
+|------|------|------|
+| 5 | [01_理解波动率.ipynb](phase2_intro/01_理解波动率.ipynb) | Lv.4 风险观察员 |
+| 6 | [02_夏普比率与Beta.ipynb](phase2_intro/02_夏普比率与Beta.ipynb) | Lv.4 风险分析师 |
+| 7 | [03_最大回撤与仓位管理.ipynb](phase2_intro/03_最大回撤与仓位管理.ipynb) | Lv.5 仓位管理员 |
+| 8 | [04_多标的组合与相关性.ipynb](phase2_intro/04_多标的组合与相关性.ipynb) | Lv.5 组合分析师 |
+
+**主题**：风险指标 · 波动率 · 多标的分析（pandas / numpy / matplotlib / statistics，全程结合金融场景）
+
 ## 后续目录（规划）
 
-- `phase2_risk/` — 风险与因子
-- `phase3_ai/` — AI 量化（第 5～10 章）
+- `phase3_ai/` — 因子 · AI 量化（第 9 章起）
 
 详见根目录 [README.md](../README.md) 与 [docs/ROADMAP.md](../docs/ROADMAP.md)。
