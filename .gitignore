@@ -25,9 +25,3 @@ data/processed/*
 .DS_Store
 Thumbs.db
 
-# Cursor / 本地 IDE 缓存（勿上传）
-.virtual_documents/
-.cursor/
-
-# 本地参考书，勿上传
-*.pdf
