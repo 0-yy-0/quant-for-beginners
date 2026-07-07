@@ -15,7 +15,6 @@ env/
 .vscode/
 .idea/
 
-
 # Data artifacts
 data/raw/*
 data/processed/*

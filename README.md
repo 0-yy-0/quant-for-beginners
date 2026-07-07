@@ -18,22 +18,24 @@
   <a href="#快速开始">快速开始</a> ·
   <a href="#课程目录">课程目录</a> ·
   <a href="#学习路线">学习路线</a> ·
-  <a href="#路线图">后续规划</a>
+  <a href="#路线图">后续规划</a> ·
+  <a href="#Yibo Quant 成长会">YiboQuant成长会</a>
 </p>
 
 ---
 
 ## 简介
 
-面向**零基础**读者的中文量化金融教程。每章可在约 30 分钟内跑通：**真实数据 → 收益率分析 → 双均线策略 → 回测评估**。
+哈喽大家好我是Yibo, 这是一份面向**零基础**读者的中文量化金融教程。每章可在约 30 分钟内跑通：**真实数据 → 收益率分析 → 双均线策略 → 回测评估**。
 
 本仓库由 **Yibo** 整理维护：侧重可运行的 Notebook 与清晰图示，而非堆砌公式。内容持续更新，欢迎 Star 以便后续查阅。
 
 | 项目 | 说明 |
 |------|------|
 | 形式 | Jupyter Notebook + 配套交互 HTML |
-| 数据 | `yfinance` 免费日线行情 |
+| 数据 | `yfinance` `akshare` 免费日线行情|
 | 第一期 | 4 章（已全部上线） |
+| 第二期 | 4 章（即将全部上线） |
 | 不适合 | 已具备完整回测框架、仅需高级因子参考的读者 |
 
 ---
@@ -85,7 +87,12 @@ Phase 1（当前）
 ├── 03 双均线策略
 └── 04 策略回测
 
-Phase 2（规划）  风险指标 · 波动率 · 多标的分析
+Phase 2（即将上线）
+├── 01 理解波动率
+├── 02 夏普比率与Beta
+├── 03 最大回撤与仓位管理
+└── 04 多标的组合与相关性
+
 Phase 3（规划）  因子 · 组合 · 夏普比率
 Phase 4（规划）  机器学习与 AI 量化
 ```
@@ -131,16 +138,19 @@ Quant-for-Beginners/
 ---
 
 ## Star 趋势
-
 <p align="center">
-  <a href="https://star-history.com/#yibohere/Quant-for-Beginners&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=yibohere/Quant-for-Beginners&type=Date&theme=dark"/>
-      <img alt="Star History" src="https://api.star-history.com/svg?repos=yibohere/Quant-for-Beginners&type=Date" width="600"/>
-    </picture>
+  <a href="https://www.star-history.com/#yibohere/Quant-for-Beginners&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=yibohere/Quant-for-Beginners&type=date&legend=top-left" width="700" />
   </a>
 </p>
+---
 
+---
+
+## 作者
+ Yibo Cheng (翊博)：项目发起人与主要维护者
+ GitHub：[@yibohere](https://github.com/yibohere)
+ 
 ---
 
 ## 贡献
