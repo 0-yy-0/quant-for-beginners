@@ -1,15 +1,9 @@
 <p align="center">
   <a href="notebooks/phase1_intro/01_什么是量化金融.ipynb">
-    <img src="assets/images/cover-phase1.jpg" width="49%" alt="和Yibo零基础学习量化金融 · 第一期" style="max-width: 450px; border-radius: 8px;"/>
+    <img src="assets/images/cover-phase1.jpg" width="49%" alt="第一期 · 从 Python 到 AI 量化交易实战" style="max-width: 450px; border-radius: 8px;"/>
   </a>
   <a href="notebooks/phase2_intro/01_理解波动率.ipynb">
-    <img src="assets/images/cover-phase2.jpg" width="49%" alt="和Yibo零基础学习量化金融 · 第二期" style="max-width: 450px; border-radius: 8px;"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="#yibo-quant-成长会">
-    <img src="assets/images/yiboquant-growth-club.jpg" width="100%" alt="Yibo Quant 成长会" style="max-width: 920px; border-radius: 8px; margin-top: 12px;"/>
+    <img src="assets/images/cover-phase2.jpg" width="49%" alt="第二期 · 风险与组合管理" style="max-width: 450px; border-radius: 8px;"/>
   </a>
 </p>
 
@@ -198,13 +192,12 @@ quant-for-beginners/
 ## Star 趋势
 
 <p align="center">
-  <a href="https://star-history.com/#yibohere/Quant-for-Beginners&datawhalechina/quant-for-beginners&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=yibohere/Quant-for-Beginners,datawhalechina/quant-for-beginners&type=Date&theme=dark" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=yibohere/Quant-for-Beginners,datawhalechina/quant-for-beginners&type=Date" width="700" />
-    </picture>
+  <a href="https://www.star-history.com/#yibohere/Quant-for-Beginners,datawhalechina/quant-for-beginners&Date">
+    <img alt="Star History Chart" src="assets/images/star-history.svg" width="700"/>
   </a>
 </p>
+
+<sub>图表使用仓库内静态 SVG，避免外链 API 加载失败。点击可跳转 star-history.com 查看交互版（含 transfer 前后两个仓库）。</sub>
 
 ---
 
